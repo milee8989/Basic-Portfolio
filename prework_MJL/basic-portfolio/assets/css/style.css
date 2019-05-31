@@ -1,0 +1,18 @@
+.porfolio{
+    float:right;
+    padding: 10px;
+}
+.contact{
+    float:right;
+
+}
+.about{
+    float:right;
+    
+}
+.link{
+    margin-top: 10px;
+    color:black;
+    font-size: 15px;
+    text-decoration: none;
+}
